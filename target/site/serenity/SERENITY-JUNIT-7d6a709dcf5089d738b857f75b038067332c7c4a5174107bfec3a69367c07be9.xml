@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="automatizar la auditoria de un analista" skipped="0" tests="1" time="51.97" timestamp="2020-07-21 09:26:05"><testcase name="Nombramiendo adecuado repositorio"><failure message="The following error occurred: Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled</failure><system-err>The following error occurred: Expected enabled element was not enabled&#13;
+co.com.test.tasks.Busca.performAs(Busca.java:30)&#13;
+co.com.test.stepdefinitions.AuditoriaStepDefinitions.buscaElRepositorio(AuditoriaStepDefinitions.java:29)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
